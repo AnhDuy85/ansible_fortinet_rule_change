@@ -23,6 +23,7 @@ _ACTION_HEADER = {
 _DEV_ICON = {
     "004_DC-FW-DMZ":     "🛡",
     "004_DC-FW-PARTNER": "🔒",
+    "004_DC-FW-INTERNET": "🔒",
 }
 
 

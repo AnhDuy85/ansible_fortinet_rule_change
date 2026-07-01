@@ -15,6 +15,11 @@
       "name": "004_DC-FW-PARTNER",
       "devid": "FG5H1ETB19908551",
       "platform": "FortiGate-501E"
+    },
+    {
+      "name": "004_DC-FW-INTERNET",
+      "devid": "FG4H1FT924905793",
+      "platform": "FortiGate-401F"
     }
   ],
   "monitor": {
